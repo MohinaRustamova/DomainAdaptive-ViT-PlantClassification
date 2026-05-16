@@ -106,23 +106,6 @@ and Holm-corrected McNemar posthoc tests (all p ≤ 1.34 × 10⁻²).
 
 ---
 
-## Citation
-
-If you use this code, please cite:
-
-```bibtex
-@article{baimukashev2026domain,
-  title={Domain-Adaptive Vision Transformer With CORAL and Self-Supervised Learning
-         for Robust Plant Disease Classification},
-  author={Baimukashev, Rashid and Rustamova, Mohina and Kadyrov, Shirali},
-  journal={IEEE Access},
-  doi={10.1109/ACCESS.2026.XXXXXXX},
-  year={2026}
-}
-```
-
----
-
 ## Acknowledgment
 
 This research was funded by the Ministry of Science and Higher Education
