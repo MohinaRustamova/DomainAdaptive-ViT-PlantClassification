@@ -23,10 +23,12 @@ outperforming all six baselines by a margin of +20.49 pp macro-F1.
 
 ## Repository Structure
 
-├── Ablations_PVD_PD.ipynb               # Proposed method + ablation study (A1–A6)
-├── model1_vit_base.ipynb                # Baseline: ViT-Base (no adaptation)
-├── model2_api_net.ipynb                 # Baseline: API-Net
-├── model3_ensemble.ipynb                # Baseline: Ensemble
-├── model4_yolov11x.ipynb               # Baseline: YOLOv11x
-├── model5_unet.ipynb                    # Baseline: U-Net
-├── model6_dinov2.ipynb                  # Baseline: DINOv2
+```
+├── Ablations_PVD_PD.ipynb       # Proposed method + ablation study (A1–A6)
+├── model1_vit_base.ipynb        # Baseline: ViT-Base (no adaptation)
+├── model2_api_net.ipynb         # Baseline: API-Net
+├── model3_ensemble.ipynb        # Baseline: Ensemble
+├── model4_yolov11x.ipynb        # Baseline: YOLOv11x
+├── model5_unet.ipynb            # Baseline: U-Net
+└── model6_dinov2.ipynb          # Baseline: DINOv2
+```
